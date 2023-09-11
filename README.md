@@ -1,6 +1,6 @@
 # Android 2D Game: [Soul Ninja]
 
-![Game Screenshot](src/main/res/drawable/game_ss1.png)
+![Game Screenshot](app/src/main/res/drawable/game_ss1.png)
 
 ## Description
 
@@ -33,5 +33,5 @@
 - Interact with the NPC girl for dialogues and interactions.
 
 
-![Game Screenshot](src/main/res/drawable/game_ss2.png)
-![Game Screenshot](src/main/res/drawable/game_ss3.png)
+![Game Screenshot](app/src/main/res/drawable/game_ss2.png)
+![Game Screenshot](app/src/main/res/drawable/game_ss3.png)
